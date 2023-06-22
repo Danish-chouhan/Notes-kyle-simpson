@@ -14,3 +14,4 @@
 > **console.log(NaN === NaN) ;** // false  // when you check NaN with the loose equality this will say NaN is not a Equal with NaN 
 
 > **console.log(Object.is(NaN,NaN)) ;**  // true // when you check this with Object.is then it will say true this is beouse Object.is check very strictly that the element is equal or not
+
